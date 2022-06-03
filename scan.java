@@ -1,6 +1,5 @@
-import java.io.*;
 import java.util.*;
-public class scan
+public class Scan
 {
 	 public static void main(String[] args) 
 	 {
